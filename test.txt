@@ -1,3 +1,11 @@
 ﻿first git edit
 
 达拉地方看见了
+<<<<<<< HEAD
+=======
+
+我在GitHub更改了数据
+ 
+>>>>>>> a881214fc997043da68cb31709c14701e333d3e6
+
+second edit！！
